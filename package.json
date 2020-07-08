@@ -1,11 +1,11 @@
 {
-  "name": "@enharry/restaurant-icons",
+  "name": "restaurant-icons",
   "version": "1.0.0",
   "description": "custom colorful icons ",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ENHarry/customicons.git"
+    "url": "git+https://github.com/ENHarry/customicons.git"
   },
   "author": "Emi Harry",
   "license": "MIT",
