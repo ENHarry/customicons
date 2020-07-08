@@ -1,0 +1,10 @@
+{
+  "name": "RestaurantIcons",
+  "version": "1.0.0",
+  "description": "custom colorful icons ",
+  "main": "customicons.js",
+  "repository": "https://github.com/ENHarry/customicons",
+  "author": "Emi Harry",
+  "license": "MIT",
+  "private": false
+}
