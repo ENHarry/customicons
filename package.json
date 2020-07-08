@@ -1,14 +1,23 @@
 {
-  "name": "restaurant-icons",
+  "name": "@enharry/restaurant-icons",
   "version": "1.0.0",
   "description": "custom colorful icons ",
   "main": "index.js",
-  "repository": "https://github.com/ENHarry/customicons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ENHarry/customicons.git"
+  },
   "author": "Emi Harry",
   "license": "MIT",
   "private": false,
-
   "dependencies": {
     "react": "~16.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ENHarry/customicons/issues"
+  },
+  "homepage": "https://github.com/ENHarry/customicons#readme",
+  "scripts": {
+    "test": "npm install restaurant-icons"
   }
 }
